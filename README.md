@@ -2,6 +2,7 @@
 
 Connect Vanna AI to database PostgreSQL and use database data finetune AI, and finally use Flask as the frontend web page.  
 Vanna AI can not only write sql query according to the data format, but can also directly fetch the data from the database and then create chart.  
+Also provide [init_postgtres.sql](init_postgtres.sql) for example data of my project.  
 
 
 ## Overview
