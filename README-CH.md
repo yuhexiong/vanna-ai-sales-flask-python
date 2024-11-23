@@ -1,10 +1,8 @@
 # Vanna AI Flask Sales
 
-**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
-
-Connect Vanna AI to database PostgreSQL and use database data finetune AI, and finally use Flask as the frontend web page.  
-Vanna AI can not only write sql query according to the data schema, but can also directly fetch the data from the database and then create chart.  
-Also provide [init_postgres.sql](init_postgres.sql) for example data of my project.  
+將 Vanna AI 連接到 PostgreSQL 資料庫，並使用資料庫中的資料對 AI 進行微調，最後使用 Flask 作為前端網頁。  
+Vanna AI 不僅可以根據資料格式撰寫 SQL 查詢，還能直接從資料庫中提取資料，並生成圖表。  
+也提供 [init_postgres.sql](init_postgres.sql) 做為我的專案的範例資料。  
 
 
 ## Overview
@@ -15,8 +13,8 @@ Also provide [init_postgres.sql](init_postgres.sql) for example data of my proje
 
 ## ENV
 
-copy .env.example as .env  
-`VANNA_MODEL` and `VANNA_API_KEY` can be get at [Vanna AI Office WebSite](https://vanna.ai/)  
+將 .env.example 複製成 .env  
+`VANNA_MODEL` 和 VANNA_`API_KEY 可以從 [Vanna AI Office WebSite](https://vanna.ai/) 取得  
 
 ```yaml
 VANNA_MODEL=
