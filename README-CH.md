@@ -14,7 +14,7 @@ Vanna AI 不僅可以根據資料格式撰寫 SQL 查詢，還能直接從資料
 ## ENV
 
 將 .env.example 複製成 .env  
-`VANNA_MODEL` 和 VANNA_`API_KEY 可以從 [Vanna AI Office WebSite](https://vanna.ai/) 取得  
+`VANNA_MODEL` 和 `VANNA_API_KEY` 可以從 [Vanna AI Office WebSite](https://vanna.ai/) 取得  
 
 ```yaml
 VANNA_MODEL=
