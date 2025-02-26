@@ -1,4 +1,4 @@
-# Vanna AI Flask Sales
+# Vanna AI Sales Flask
 
 **(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
 
